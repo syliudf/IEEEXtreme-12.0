@@ -1,0 +1,3 @@
+﻿  coins.cpp
+e:\codes\vs\fakecoins\fakecoins\coins.cpp(13): warning C4101: “x”: 未引用的局部变量
+  fakecoins.vcxproj -> E:\Codes\VS\fakecoins\Debug\fakecoins.exe

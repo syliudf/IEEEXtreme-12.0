@@ -1,0 +1,3 @@
+﻿  telescope.cpp
+e:\codes\vs\telescope\telescope\telescope.cpp(12): warning C4091: “typedef ”: 没有声明变量时忽略“line”的左侧
+  telescope.vcxproj -> E:\Codes\VS\telescope\Debug\telescope.exe
